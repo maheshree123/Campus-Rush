@@ -23,3 +23,9 @@ Wrong turns lead to dead ends (Temple, Park, Library).
 1. Install Godot 4.2+
 2. Open `project.godot` in Godot
 3. Press F5
+
+## Author
+
+**Maheshree Katla**
+
+B.E. Computer Engineering | Aspiring Python / AI-ML Developer
